@@ -14,6 +14,7 @@ namespace ImageSharePassword.Web.Controllers
 
         public IActionResult Index()
         {
+            test
             return View();
         }
         [HttpPost]
